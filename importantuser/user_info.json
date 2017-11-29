@@ -1,0 +1,10 @@
+{"create":{"_index":"vpn","_type":"user_info"}}
+{"user_id":"13988880001","phone":"13988880001","user_name":"库尔班1","address":"哈密地区","imei":"SN13988880001","phone_locaton":"哈密地区","base_station":"华尔道夫酒店","location_code":"652200","create_timestamp":1510624616000}
+{"create":{"_index":"vpn","_type":"user_info"}}
+{"user_id":"13988880002","phone":"13988880002","user_name":"库尔班2","address":"乌鲁木齐","imei":"SN13988880002","phone_locaton":"乌鲁木齐","base_station":"华尔道夫酒店","location_code":"650100","create_timestamp":1510624616000}
+{"create":{"_index":"vpn","_type":"user_info"}}
+{"user_id":"13988880003","phone":"13988880003","user_name":"库尔班3","address":"克拉玛依市","imei":"SN13988880003","phone_locaton":"克拉玛依市","base_station":"华尔道夫酒店","location_code":"650200","create_timestamp":1510624616000}
+{"create":{"_index":"vpn","_type":"user_info"}}
+{"user_id":"13988880004","phone":"13988880004","user_name":"库尔班4","address":"克孜勒苏柯尔克孜[自]","imei":"SN13988880004","phone_locaton":"克孜勒苏柯尔克孜","base_station":"华尔道夫酒店","location_code":"653000","create_timestamp":1510624616000}
+{"create":{"_index":"vpn","_type":"user_info"}}
+{"user_id":"13988880005","phone":"13988880005","user_name":"库尔班5","address":"巴音郭楞蒙古[自]","imei":"SN13988880005","phone_locaton":"巴音郭楞蒙古","base_station":"华尔道夫酒店","location_code":"652800","create_timestamp":1510624616000}

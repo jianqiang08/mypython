@@ -1,0 +1,10 @@
+{"create":{"_index":"vpn","_type":"start_used_vpn"}}
+{"start_time":1510819200000,"data_timestamp":1510819200000,"user_id":"13977770001","location_name":"哈密地区","location_code":"652200", "user_ip_address":"124.118.12.1","user_points":"93.51,42.81","vpn_name":"FreeVPN","vpn_country":"美国","vpn_country_code":"United States of America","vpn_ip_address":"45.56.77.157","vpn_points":"-118.22,34.05"}
+{"create":{"_index":"vpn","_type":"start_used_vpn"}}
+{"start_time":1510819200000,"data_timestamp":1510819200000,"user_id":"13977770002","location_name":"乌鲁木齐","location_code":"650100","user_ip_address":"124.117.227.13","user_points":"87.61,43.82","vpn_name":"OpenVPN","vpn_country":"美国","vpn_country_code":"United States of America","vpn_ip_address":"45.56.77.157","vpn_points":"-118.22,34.05"}
+{"create":{"_index":"vpn","_type":"start_used_vpn"}}
+{"start_time":1510819200000,"data_timestamp":1510819200000,"user_id":"13977770003","location_name":"克拉玛依市", "location_code":"650200", "user_ip_address":"120.69.240.8","user_points":"93.51,45.58","vpn_name":"HelloVPN","vpn_country":"日本","vpn_country_code":"Japan","vpn_ip_address":"160.16.230.28","vpn_points":"139.73,35.71"}
+{"create":{"_index":"vpn","_type":"start_used_vpn"}}
+{"start_time":1510819200000,"data_timestamp":1510819200000,"user_id":"13977770005","location_name":"克孜勒苏柯尔克孜[自]", "location_code":"653000","user_ip_address":"49.114.196.2","user_points":"76.16,39.71","vpn_name":"FreeVPN","vpn_country":"突尼斯","vpn_country_code":"Tunisia","vpn_ip_address":"196.184.51.86","vpn_points":"10.18,36.80"}
+{"create":{"_index":"vpn","_type":"start_used_vpn"}}
+{"start_time":1510819200000,"data_timestamp":1510819200000,"user_id":"13977770006","location_name":"巴音郭楞蒙古[自]", "location_code":"652800","user_ip_address":"124.118.56.1","user_points":"86.14,41.76","vpn_name":"FreeVPN","vpn_country":"澳大利亚","vpn_country_code":"Australia","vpn_ip_address":"37.139.65.2","vpn_points":"151.21,-33.86"}
